@@ -1,0 +1,7 @@
+base_code: 0000 # default: 0000
+64bitsteamid: "" # REQUIRED
+player_token: "" # REQUIRED
+server_details: [] # ill figure out how to store server details elegantly later
+
+
+# See README on how to obtain values labeled as REQUIRED.
